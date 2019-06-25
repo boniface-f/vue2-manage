@@ -33,7 +33,7 @@ npm run local (访问本地后台系统，需运行node-elm后台系统)
 
 # 任务列表
 - [x] 软件说明     src\page\explain.vue
-- [ ] 设置功能     src\page\adminSet.vue
+- [x] 设置功能     src\page\adminSet.vue
 - [x] 文本编辑     src\page\vueEdit.vue
 - [ ] 用户分布     src\page\visitor.vue
 - [x] 用户列表     src\page\userList.vue
