@@ -35,12 +35,12 @@ npm run local (访问本地后台系统，需运行node-elm后台系统)
 - [x] 软件说明     src\page\explain.vue
 - [x] 设置功能     src\page\adminSet.vue
 - [x] 文本编辑     src\page\vueEdit.vue
-- [ ] 用户分布     src\page\visitor.vue
+- [x] 用户分布     src\page\visitor.vue
 - [x] 用户列表     src\page\userList.vue
 - [x] 商家列表     src\page\shopList.vue
-- [ ] 食品列表     src\page\foodList.vue
-- [ ] 订单列表     src\page\orderList.vue
-- [ ] 管理员列表   src\page\adminList.vue
+- [x] 食品列表     src\page\foodList.vue
+- [x] 订单列表     src\page\orderList.vue
+- [x] 管理员列表   src\page\adminList.vue
 - [ ] 添加商铺     src\page\addShop.vue
 - [ ] 添加商品     src\page\addGoods.vue
 - [x] 首页功能     src\page\home.vue
